@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class twopointer
 {
 	public static void main(String[] args) {
 		int arr[]={13,2,4,15,12,10,6,5};
